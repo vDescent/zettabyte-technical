@@ -1,1 +1,1 @@
-"# zettabyte-technical" 
+# zettabyte-technical
